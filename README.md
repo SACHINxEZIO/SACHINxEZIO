@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I'm passionate about software development, open-source contributions, and continuous learning. Here's a little bit about me:
 
-![Profile Banner]([https://your-banner-url.com](https://www.jaxtr.com/wp-content/uploads/2020/04/ICT-scaled.jpg))
-
 ---
 
 ### 🌱 What I'm Learning:
