@@ -1,4 +1,6 @@
-### Hi there, I'm SACHIN! 👋
+![Animation](https://github.com/SACHINxEZIO/animation-gif/blob/main/computer.gif)
+
+### Hi there, I'm SACHIN ! 👋
 
 Welcome to my GitHub profile! I'm passionate about software development, open-source contributions, and continuous learning. Here's a little bit about me:
 
