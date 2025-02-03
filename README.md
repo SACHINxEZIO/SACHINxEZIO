@@ -25,6 +25,7 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 
 ### 📊 GitHub Stats:
 ![SACHINxEZIO's GitHub stats](https://github-readme-stats.vercel.app/api?username=SACHINxEZIO&show_icons=true&theme=radical)
+<br>
 
 ### 🏆 GitHub Trophies:
 ![SACHINxEZIO's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SACHINxEZIO&theme=dracula)
