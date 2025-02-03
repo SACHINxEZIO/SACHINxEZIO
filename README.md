@@ -42,7 +42,6 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-
 ---
 
 Thanks for visiting my profile! 😊
